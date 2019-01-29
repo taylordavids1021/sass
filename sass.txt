@@ -1,0 +1,16 @@
+sass
+
+pre prossesor
+wheres this code affecting
+
+why sass?
+make our work easy
+easy to read
+stylesheet
+
+we can do style,browser cant read sass
+will need to link css folder 
+indent
+DRY-do not repeat yourself
+
+sass --watch scss:css
